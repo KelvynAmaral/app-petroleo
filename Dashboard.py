@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import streamlit.components.v1 as components
 from streamlit_option_menu import option_menu
 
-# Configuração geral da página
+# Configuração geral da páginay
 st.set_page_config(
     page_title='Análise Preço do Petróleo Brent',
     page_icon=":chart_with_upwards_trend:",
@@ -56,8 +56,11 @@ with st.sidebar:
     # Informações do grupo
     st.title('Grupo 5 - FIAP')
     st.write('''Integrantes:
-- Anderson
-- Kelvyn''')
+- Anderson Silva
+- Kelvyn
+- Evandro Godin
+- Sandra
+- Michael''')
 
 # === CABEÇALHO PRINCIPAL ===
 st.header('Análise Preço do Petróleo *Brent*')
