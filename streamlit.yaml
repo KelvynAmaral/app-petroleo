@@ -1,0 +1,4 @@
+deploy:
+  type: docker
+  image: petroleo-brent:latest
+  port: 8501

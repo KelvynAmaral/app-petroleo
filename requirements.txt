@@ -1,0 +1,14 @@
+beautifulsoup4==4.13.4
+numpy==1.26.4  
+pandas==2.2.3
+plotly==6.0.1
+prophet==1.1.6
+requests==2.32.3  
+scikit-learn==1.6.1  
+streamlit==1.45.0  
+streamlit-option-menu==0.4.0  
+torch==2.0.1  
+matplotlib
+seaborn
+
+
