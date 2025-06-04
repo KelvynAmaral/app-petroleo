@@ -49,7 +49,7 @@ with st.sidebar:
 
     escolha = option_menu(
         "Tech Challenge: Fase 4",
-        ["Exploração e Insights", "Deploy", "Conclusão", "Referências"],
+        ["Exploração e Insights", "Previsão e Dados", "Conclusão", "Referências"],
         icons=["bar-chart-line", "gear", "check2-square", "book"],
         menu_icon="laptop",
         default_index=0,
