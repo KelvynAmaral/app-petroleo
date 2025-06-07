@@ -42,7 +42,6 @@ st.markdown(
 
 with st.sidebar:
     st.image(
-        "https://impactospositivos.com/wp-content/uploads/2024/03/FIAP-Apoiador.png",
         caption="Pós-Tech FIAP | Tech Challenge Fase 4 | Grupo 5",
         width=220
     )
